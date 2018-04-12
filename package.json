@@ -1,0 +1,27 @@
+{
+	"name": "babel-plugin-titanium-controller-forwarder",
+	"version": "1.0.0",
+	"description": "Babel plugin to replace string references to $, based on the great babel-plugin-titanium-controller-args by Brenton House",
+	"keywords": [],
+	"homepage": "https://github.com:inzdr/babel-plugin-titanium-controller-reference",
+	"bugs": {
+		"url": "https://github.com:inzdr/babel-plugin-titanium-controller-reference/issues",
+		"email": "richard@lustembergconsultancy.com"
+	},
+	"license": "MIT",
+	"author": {
+		"name": "Richard Lustemberg",
+		"email": "brenton.house@gmail.com",
+		"url": "https://github.com/rlustemberg"
+	},
+	"main": "babel-plugin-titanium-controller-forwarder.js",
+	"scripts": {},
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:inzdr/babel-plugin-titanium-controller-reference.git"
+	},
+	"devDependencies": {},
+	"engines": {
+		"node": ">=0.10"
+	}
+}
