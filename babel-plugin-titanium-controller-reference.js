@@ -9,7 +9,7 @@
  *                  mobile solutions for everyday heroes
  *
  * @file Babel plugin based on babel-plugin-titanium-controller-args by brenton.house@gmail.com
- * @module babel-plugin-titanium-controller-forwarder
+ * @module babel-plugin-titanium-controller-reference
  * @author Richard Lustemberg <richard@lustembergconsultancy.com>
  * @version 1.0.0
  * @since 1.0.0

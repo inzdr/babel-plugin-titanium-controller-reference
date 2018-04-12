@@ -7,13 +7,13 @@ Babel plugin to transform "$" into $ when used as parameters inside your child v
 ## Install [![NPM version](https://badge.fury.io/js/babel-plugin-titanium-controller-args.svg)](http://badge.fury.io/js/babel-plugin-titanium-controller-args)
 
 ```bash
-$ npm install --save inzdr/babel-plugin-titanium-controller-forwarder
+$ npm install --save inzdr/babel-plugin-titanium-controller-reference
 ```
 
 
 ## Need Help?
 
-Please [submit an issue](https://github.com/inzdr/babel-plugin-titanium-controller-forwarder/issues) on GitHub and
+Please [submit an issue](https://github.com/inzdr/babel-plugin-titanium-controller-reference/issues) on GitHub and
 provide information about your setup.
 
 
@@ -23,7 +23,7 @@ provide information about your setup.
 
 Except for otherwise noted, this project is licensed under the terms of the MIT license. This means you have full access to the
 source code and can modify it to fit your own needs.
-See the [license.md](https://github.com/inzdr/babel-plugin-titanium-controller-forwarder/blob/master/license.md) file.
+See the [license.md](https://github.com/inzdr/babel-plugin-titanium-controller-reference/blob/master/license.md) file.
 
 ## Legal
 
